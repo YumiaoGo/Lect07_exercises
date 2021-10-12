@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>91</Count><RetMax>20</RetMax><RetStart>0</RetStart><QueryKey>1</QueryKey><WebEnv>MCID_61657627893c1c29861c93b7</WebEnv><IdList>
+<Id>1802791303</Id>
+<Id>1770601667</Id>
+<Id>1714597528</Id>
+<Id>1535789305</Id>
+<Id>1535789291</Id>
+<Id>1532343341</Id>
+<Id>1532343327</Id>
+<Id>1532343299</Id>
+<Id>1532343285</Id>
+<Id>1531247764</Id>
+<Id>1531247750</Id>
+<Id>1198316801</Id>
+<Id>1198316799</Id>
+<Id>1276740664</Id>
+<Id>53828082</Id>
+<Id>306996549</Id>
+<Id>306996547</Id>
+<Id>306996545</Id>
+<Id>306996543</Id>
+<Id>306996541</Id>
+</IdList><TranslationSet><Translation>     <From>Cosmoscarta</From>     <To>"Cosmoscarta"[Organism] OR Cosmoscarta[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"Cosmoscarta"[Organism]</Term>    <Field>Organism</Field>    <Count>89</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>Cosmoscarta[All Fields]</Term>    <Field>All Fields</Field>    <Count>91</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>"Cosmoscarta"[Organism] OR Cosmoscarta[All Fields]</QueryTranslation></eSearchResult>
